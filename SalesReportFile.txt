@@ -1,0 +1,22 @@
+                                  ASHRALS LTD
+          10/15/20       SALES SPECULATION REPORT                  RCJ
+
+
+                             PROD    PRODUCT         QTY         SALES
+     CUSTOMER NAME            ID       NAME         SOLD         VALUE
+  SCAREDY CAT COSTUMES        C02  PIRATE ADL FEM     335     $103,598.75                              C03  KNIGHT ADL MAL     412     $257,603.00                              S04  BOOTS SIZE 7        50     $  5,637.50                              A05  SWORD              900     $277,875.00
+
+                                         TOTAL:     1,697    $  644,714.25
+
+  ARO COSTUMES                C01  PIRATE ADL MAL     402     $128,640.00                              C04  VAMPIRE ADL FE     650     $465,172.50                              S03  BOOTS SIZE 6       304     $153,748.00
+
+                                         TOTAL:     1,356    $  747,560.50
+
+  EDEN COSTUMES               A01  FACE MAKEUP        510     $ 12,877.50                              A02  VAMPIRE TEETH      625     $ 64,968.75                              A03  GOLD TEETH         712     $  9,078.00                              A04  CLUB               250     $  3,912.50
+
+                                         TOTAL:     2,097    $   90,836.75
+
+
+                               GRAND TOTAL QUANTITY SOLD:          5,150
+
+                            GRAND TOTAL SALES VALUE:       $ 1,483,111.50
